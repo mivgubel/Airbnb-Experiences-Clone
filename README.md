@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with ReactJS.
+
+![image](https://user-images.githubusercontent.com/51422943/166586961-d6da0497-fccd-4fb9-b2ac-e1d3583ec94a.png)
+
 
 ## Available Scripts
 
