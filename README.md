@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with ReactJS.
+This project was bootstrapped with ReactJS, using HTML, CSS, JAVASCRIPT.
 
 Twitter: https://twitter.com/Mike_Bello90
 
